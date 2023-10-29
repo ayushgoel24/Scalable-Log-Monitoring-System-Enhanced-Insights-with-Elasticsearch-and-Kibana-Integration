@@ -49,7 +49,7 @@ Our efforts in designing and implementing the Scalable Log Monitoring System hav
 🎥 **Watch the Video Demonstration**  
 <!-- [![Video Thumbnail](https://drive.google.com/thumbnail?id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa)](https://drive.google.com/uc?export=view&id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa) -->
 
-<a href="https://drive.google.com/uc?export=view&id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa">
+<!-- <a href="https://drive.google.com/uc?export=view&id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa"> -->
 <img src="https://drive.google.com/thumbnail?id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa" width="640" height="360" alt="Video Thumbnail">
 </a>
 
