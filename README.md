@@ -44,7 +44,14 @@ Impact
 
 Our efforts in designing and implementing the Scalable Log Monitoring System have culminated in tangible, impactful outcomes. To better illustrate the system's capabilities and provide a hands-on demonstration, we've created a video walkthrough.
 
-🎥 **[Video Demonstration](https://drive.google.com/file/d/1SzHrRCZepz9nGAxATuJWhachVzxC9XNa/view?usp=sharing)**
+<!-- 🎥 **[Video Demonstration](https://drive.google.com/file/d/1SzHrRCZepz9nGAxATuJWhachVzxC9XNa/view?usp=sharing)** -->
+
+🎥 **Watch the Video Demonstration**  
+<!-- [![Video Thumbnail](https://drive.google.com/thumbnail?id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa)](https://drive.google.com/uc?export=view&id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa) -->
+
+<a href="https://drive.google.com/uc?export=view&id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa">
+<img src="https://drive.google.com/thumbnail?id=1SzHrRCZepz9nGAxATuJWhachVzxC9XNa" width="640" height="360" alt="Video Thumbnail">
+</a>
 
 This video showcases the intricate functionalities and the results derived from our system. It offers a detailed look into the monitoring dashboards in Kibana, the granular visualizations for each metric, and the enhanced insights that have significantly improved our operational efficiency.
 
